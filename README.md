@@ -26,8 +26,8 @@ The Histogram of gray scale image and color image is shown.
 
 ## Program:
 ```
-# Developed By: PARTHASARTHI S
-# Register Number: 212223040144
+# Developed By: VINOTHINI T
+# Register Number: 212223040245
 ```
 ## Gray Image and Color Image
 ```python
